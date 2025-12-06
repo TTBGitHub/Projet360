@@ -1,0 +1,15 @@
+appId: com.projet360.app
+productName: Projet360 IA
+files:
+  - dist
+  - main.js
+  - preload.js
+directories:
+  buildResources: assets
+win:
+  target:
+    - portable
+extraMetadata:
+  main: main.js
+
+

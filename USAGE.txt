@@ -1,0 +1,54 @@
+📦 **PROJET360 IA - VERSION FINALE**
+
+## 🚀 Installation et lancement
+
+### Pour Windows (Simple)
+1. Copiez le **dossier entier** `Projet360 IA v2` sur votre ordinateur
+2. **Double-cliquez** sur `start.bat` (ou `run.vbs`)
+3. Votre navigateur s'ouvre automatiquement sur le logiciel
+
+### Pour macOS/Linux
+1. Ouvrez un terminal dans le dossier `Projet360 IA v2`
+2. Exécutez : `node server.js`
+3. Ouvrez votre navigateur sur : `http://localhost:3000`
+
+---
+
+## ⚙️ Prérequis
+- **Node.js** (gratuit, télécharger depuis https://nodejs.org/)
+- Un navigateur web (Chrome, Firefox, Edge, Safari)
+
+---
+
+## 📝 Utilisation
+
+### Créer une scène 360°
+1. Lancez l'application
+2. Créez un nouveau projet
+3. Ajoutez une scène avec une image panoramique
+4. Ajoutez des hotspots interactifs
+
+### Types de hotspots
+- 📝 **Texte** : Affiche du texte
+- 🖼️ **Image** : Affiche une image
+- 📋 **Texte + Image** : Combine texte et image
+- 🔗 **Lien** : Lien web externe avec favicon
+- 📱 **IFrame** : Contenu web personnalisé
+- 🔄 **Scène** : Lien vers une autre scène
+
+### Exporter votre création
+1. Cliquez sur **"Exporter en HTML"**
+2. Un fichier `index.html` est téléchargé
+3. Partagez-le avec vos collègues
+4. Ils ouvrent simplement le fichier dans leur navigateur
+
+---
+
+## 💡 Conseils
+- Les projets sont sauvegardés **localement** sur votre ordinateur
+- Utilisez des **images équirectangulaires** (format 2:1, ex: 4096x2048px)
+- Les exports HTML contiennent **tout** (images, code) - aucun fichier externe nécessaire
+
+---
+
+**Créé pour faciliter la création de contenu 360° interactif** ✨
