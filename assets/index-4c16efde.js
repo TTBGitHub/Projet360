@@ -4002,7 +4002,10 @@ void main() {
     </div>
     <div class="controls">
         🖱️ Cliquez et glissez pour naviguer | Molette souris pour zoomer/dézoomer<br>
-        <span class="controls-pointer">☝️</span> Cliquez sur les points pour chercher et découvrir
+        <span class="controls-pointer">☝️</span> Cliquez sur les points pour chercher et découvrir<br>
+        <a href="https://pedagogie.ac-montpellier.fr/ressources-et-formation-du-cercle-detude-numerique-physique-chimie" target="_blank" rel="noopener noreferrer" style="color: #9cf; text-decoration: underline;">
+            Réalisé avec 360 Scene Editor - C.HC CEN-PC MTP
+        </a>
     </div>
     
     <script>
