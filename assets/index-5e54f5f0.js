@@ -4016,8 +4016,8 @@ void main() {
     <div id="viewer"></div>
     <div id="viewer-container"></div>
     <div id="loading" style="display:none;">
-        <div style="margin-bottom: 15px; font-size: 16px;">⏳ Chargement du visualiseur...</div>
-        <div style="color: #666; font-size: 12px;">Assurez-vous que les images 360° sont dans le même dossier</div>
+        <div style="margin-bottom: 15px; font-size: 16px;">⏳ Chargement de la scène...</div>
+        
     </div>
     <div class="controls">
         🖱️ Cliquez et glissez pour naviguer | Molette souris pour zoomer/dézoomer<br>
