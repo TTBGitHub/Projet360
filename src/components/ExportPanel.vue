@@ -4,7 +4,7 @@
       <h2>Exporter le Projet</h2>
       
       <div class="export-preview">
-        <h3>Apercu du Projet</h3>
+        <h3>Aperçu du Projet</h3>
         <div class="project-info">
           <div class="info-row">
             <label>Nom:</label>
