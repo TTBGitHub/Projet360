@@ -1,4 +1,4 @@
-<template>
+çu<template>
   <div class="app-container">
     <!-- Toasts -->
     <div class="toasts-container">
@@ -35,7 +35,7 @@
               @click="currentTab = 'viewer'"
               class="tab-btn"
             >
-              👁️ Visionneur
+              👁️ Aperçu
             </button>
             <button 
               :class="{ active: currentTab === 'export' }"
